@@ -81,7 +81,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/deeps36/count.svg)  
 
-[![Deeps's github stats](https://github-readme-stats.vercel.app/api?username=deeps36&show_icons=true&theme=gotham&title_color=ffc857&icon_color=8ac926&bg_color=151515)
+![Deeps's github stats](https://github-readme-stats.vercel.app/api?username=deeps36&show_icons=true&theme=gotham&title_color=ffc857&icon_color=8ac926&bg_color=151515)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deeps36&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeps36&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html)](https://github.com/deeps3/github-readme-stats)
 
