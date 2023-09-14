@@ -77,7 +77,9 @@
 </table>
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats: 
-![Visitor Count](https://profile-counter.glitch.me/deeps36/count.svg) :Profile visits 
+<h3>Profile visits :</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/deeps36/count.svg)  
 
 [![Deeps's github stats](https://github-readme-stats.vercel.app/api?username=deeps36&show_icons=true&theme=gotham&title_color=ffc857&icon_color=8ac926&bg_color=151515)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deeps36&theme=dark)](https://git.io/streak-stats)
