@@ -79,8 +79,8 @@
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats: 
 ![Visitor Count](https://profile-counter.glitch.me/deeps36/count.svg) :Profile visits 
 
+[![Deeps's github stats](https://github-readme-stats.vercel.app/api?username=deeps36&show_icons=true&theme=gotham&title_color=ffc857&icon_color=8ac926&bg_color=151515)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deeps36&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeps36&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html)](https://github.com/deeps3/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=deeps36&show_icons=true&theme=gotham&title_color=ffc857&icon_color=8ac926&bg_color=151515" alt="abhisheknaiidu" />
 
  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
