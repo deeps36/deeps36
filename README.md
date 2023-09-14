@@ -1,13 +1,6 @@
-# 👋  Namaste, I'm Deep!
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />  Namaste, I'm Deep!
 
-<div style="display: flex; align-items: center;">
-  <div style="flex-grow: 1;">
-    💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Passionate about Innovation 📚 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/deep-panchal369/" style="margin-left: 10px;">
-      <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png" alt="LinkedIn" width="30" height="30">
-    </a>
-  </div>
-</div>
+💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Passionate about Innovation 📚  - :octocat: [My Resume](https://drive.google.com/file/d/1pF5H110Plyp_8oxeCdKnTuCPQkYCE8ac/view?usp=sharing)
 
 <table>
   <tr>
@@ -83,6 +76,11 @@
   </tr>
 </table>
 
+## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats: 
+![Visitor Count](https://profile-counter.glitch.me/deeps36/count.svg) :Profile visits 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deeps36&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeps36&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html)](https://github.com/deeps3/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=deeps36&show_icons=true&theme=gotham&title_color=ffc857&icon_color=8ac926&bg_color=151515" alt="abhisheknaiidu" />
 
-
+ - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
