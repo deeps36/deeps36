@@ -5,7 +5,7 @@
 <table>
   <tr>
     <th><img src="/assets/programmer.gif" alt="Programmer GIF"></th>
-    <th>🌐 Welcome to my digital haven in the vast world of 1s and 0s. This is my humble abode in the Digital Universe. 🏠✨</th>
+    <th>✨EVER POSITIVE, NEVER NEGATIVE✨<br><br>🌐 Welcome to my digital haven in the vast world of 1s and 0s. This is my humble abode in the Digital Universe. 🏠✨</th>
   </tr>
 </table>
 
