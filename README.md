@@ -5,7 +5,7 @@
 <table>
   <tr>
     <th><img src="/assets/programmer.gif" alt="Programmer GIF"></th>
-    <th>✨EVER POSITIVE, NEVER NEGATIVE✨<br><br>🌐 Welcome to my digital haven in the vast world of 1s and 0s. This is my humble abode in the Digital Universe. 🏠✨</th>
+    <th><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&pause=1000&multiline=true&width=435&lines=%E2%9C%A8EVER+POSITIVE%2C+NEVER+NEGATIVE%E2%9C%A8" alt="Typing SVG" /></a><br>🌐 Welcome to my digital haven in the vast world of 1s and 0s. This is my humble abode in the Digital Universe. 🏠✨</th>
   </tr>
 </table>
 
