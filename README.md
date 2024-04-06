@@ -77,6 +77,19 @@
 </table>
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats: 
+
+
+###
+
+<h2 align="left">📝My Contributions</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/deeps36/deeps36/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 <h3>Profile visits :</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/deeps36/count.svg)  
