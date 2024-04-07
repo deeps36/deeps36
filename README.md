@@ -81,11 +81,11 @@
 
 ###
 
-<h2 align="left">📝My Contributions</h2>
+## <h2 align="left">📝My Contributions</h2>
 
 ###
 
-<img src="https://raw.githubusercontent.com/deeps36/deeps36/output/snake.svg" alt="Snake animation" />
+## <img src="https://raw.githubusercontent.com/deeps36/deeps36/output/snake.svg" alt="Snake animation" />
 
 ###
 
