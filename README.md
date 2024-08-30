@@ -1,6 +1,6 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />  Namaste, I'm Deep!
 
-💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Passionate about Innovation 📚  | :octocat: [My Resume]https://drive.google.com/drive/folders/1SOBILhA1BF5rY4pX4RfRTV_U9bA4D3ky)
+💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Passionate about Innovation 📚  | :octocat: [My Resume](https://drive.google.com/drive/folders/1SOBILhA1BF5rY4pX4RfRTV_U9bA4D3ky)
 
 <table>
   <tr>
