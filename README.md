@@ -1,6 +1,6 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />  Namaste, I'm Deep!
 
-💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Passionate about Innovation 📚  | :octocat: [My Resume](https://drive.google.com/file/d/1pF5H110Plyp_8oxeCdKnTuCPQkYCE8ac/view?usp=sharing)
+💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Passionate about Innovation 📚  | :octocat: [My Resume]https://drive.google.com/drive/folders/1SOBILhA1BF5rY4pX4RfRTV_U9bA4D3ky)
 
 <table>
   <tr>
@@ -77,17 +77,6 @@
 </table>
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats: 
-
-
-###
-
-## <h2 align="left">📝My Contributions</h2>
-
-###
-
-## <img src="https://raw.githubusercontent.com/deeps36/deeps36/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 <h3>Profile visits :</h3>
