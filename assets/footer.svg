@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-labelledby="footerTitle">
+  <title id="footerTitle">Deep Panchal  animated footer wave</title>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#010409" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#010409" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="waveA" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#79c0ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="waveB" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#238636" stop-opacity="0.08"/>
+      <stop offset="50%" stop-color="#3fb950" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#238636" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="160" fill="url(#bg)"/>
+
+  <!-- Back wave -->
+  <path fill="url(#waveB)" opacity="0.9">
+    <animate
+      attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      values="
+        M0,90 C150,60 300,120 450,90 C600,60 750,120 900,90 C1050,60 1150,100 1200,85 L1200,160 L0,160 Z;
+        M0,95 C150,125 300,70 450,100 C600,130 750,70 900,100 C1050,130 1150,80 1200,95 L1200,160 L0,160 Z;
+        M0,90 C150,60 300,120 450,90 C600,60 750,120 900,90 C1050,60 1150,100 1200,85 L1200,160 L0,160 Z
+      "
+    />
+  </path>
+
+  <!-- Front wave -->
+  <path fill="url(#waveA)" opacity="0.95">
+    <animate
+      attributeName="d"
+      dur="6s"
+      repeatCount="indefinite"
+      values="
+        M0,110 C200,85 400,135 600,110 C800,85 1000,135 1200,110 L1200,160 L0,160 Z;
+        M0,115 C200,140 400,90 600,115 C800,140 1000,90 1200,115 L1200,160 L0,160 Z;
+        M0,110 C200,85 400,135 600,110 C800,85 1000,135 1200,110 L1200,160 L0,160 Z
+      "
+    />
+  </path>
+
+  <!-- Footer label -->
+  <text x="600" y="142" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#8b949e">
+    ENGINEERED WITH INTENT &#183; DEEP PANCHAL
+  </text>
+</svg>
