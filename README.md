@@ -41,6 +41,19 @@
 <img src="./assets/divider.svg" alt="" width="100%" />
 
 <!-- ═══════════════════════════════════════
+     PORTFOLIO VIDEO
+═══════════════════════════════════════ -->
+<h3 align="center">🎬 My portfolio in 34 seconds</h3>
+
+<div align="center">
+  <a href="https://deepstech.netlify.app/">
+    <img src="./assets/portfolio-preview.gif" alt="Portfolio promo: who I am, my journey, impact, stack and work. Click to open deepstech.netlify.app" width="100%" />
+  </a>
+  <br/>
+  <sub>Click it to explore the real thing, and ask the AI on the site anything about my work.</sub>
+</div>
+
+<!-- ═══════════════════════════════════════
      ABOUT + NOW
 ═══════════════════════════════════════ -->
 <table width="100%">
